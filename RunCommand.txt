@@ -1,0 +1,2 @@
+java --module-path "C:\Users\Sems\eclipse-workspace\CalendarApp\lib" --add-modules javafx.controls Main
+Replace C:etc with your path to the lib folder :)
